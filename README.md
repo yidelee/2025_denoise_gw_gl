@@ -1,4 +1,4 @@
-# Denoising time-frequency gravitational wave of binary black hole mergers with numerical-inspired deep learning
+# Denoising gravitational wave in time-frequency representation with deep learning
 Yi-De Lee & Hwei-Jang Yo<br>
 Department of Physics, National Cheng Kung University, Tainan, Taiwan
 
